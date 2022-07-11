@@ -1,2 +1,0 @@
-# AnonXMusic
-Telegram music bot
