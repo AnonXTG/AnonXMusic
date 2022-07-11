@@ -1,15 +1,8 @@
 
+</p>
+<p align="center"><a href="https://t.me/ANonx"><img src="https://telegra.ph/file/870cbadc6f3740a1f31b1.jpg"></a></p>
 
-
-
-
-
-
-
-
-
-
-
+AnonXMusic is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 
 
@@ -37,3 +30,9 @@
 - `/clean` - clean all raw files
 - `/rmd` - clean all downloaded files
 ────────────────────
+
+
+## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonXTG/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
