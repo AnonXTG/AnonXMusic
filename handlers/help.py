@@ -1,6 +1,6 @@
 import asyncio
 from helpers.filters import command
-from config import BOT_NAME, SUPPORT_GROUP, START_IMG
+from config import BOT_NAME, SUPPORT_GROUP, START_VID
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
