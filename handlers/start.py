@@ -9,8 +9,8 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.group & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAITimLMEUkjJpmivoOgjrhcxzm8TqtVAAJOCAACjWFgVp8rVzPONcmOKQQ")
-    await message.reply_photo(
-        photo=f"{START_IMG}",
+    await message.reply_video(
+        video=f"{START_VID}",
         caption=f"""**━━━━━━━━━━━━━━━━━━
 🍬 ʜᴇʏ {message.from_user.mention()} !
 
