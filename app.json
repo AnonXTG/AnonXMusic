@@ -47,10 +47,6 @@
       "required": true,
       "value": "1356469075"
     },
-    "START_IMG": {
-      "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
-      "required": false
-    },
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
       "required": false
