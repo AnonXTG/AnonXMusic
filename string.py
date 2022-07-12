@@ -1,3 +1,5 @@
+# by ©AnonXTG 
+
 import asyncio
 
 from pyrogram import Client
